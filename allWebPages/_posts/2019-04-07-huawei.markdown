@@ -1,5 +1,5 @@
 ---
-layout: IT update
+layout: page
 title: ข่าวไอที
 date:   2019-04-07 
 categories: ไอที
