@@ -4,7 +4,7 @@ title: หน้าหลัก
 ---
 <h1>ยินดีต้อนรับเข้าสู่ ITGenius</h1>
 <h2>คุณต้องการทำอะไร</h2>
-<h3><a href="../anaterPages/checkSpec.html">check speck</a></h3>
+<h3><a href="anaterPages/Review.html">check speck</a></h3>
 
 <section>
 <article>
