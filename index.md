@@ -9,32 +9,28 @@ title: หน้าหลัก
 <h3><a href="anaterPages/ITTechnique.html">แนะนำ ITTechnique</a></h3>
 <h2>ติดต่อเรา</h2>
 <p>
-นายจักกริช ดวงแป้น
-<br>
+<h3>นายจักกริช ดวงแป้น</h3>
 email: tactiledev.jukkridd@gmail.com
 <br>
 เบอร์โทรศัพท์: 0870571401
 </p>
 
 <p>
-นายคุณากร สุวรรณเนตร
-<br>
+<h3>นายคุณากร สุวรรณเนตร</h3>
 Email: tactiledev.kunakorns.gmail.com
 <br>
 เบอร์โทรศัพท์: 0831154529
 </p>
 
 <p>
-นาย มงคล บัวศรี
-<br>
+<h3>นาย มงคล บัวศรี</h3>
 Email: tactiledev.mongkol@gmail.com
 </br>
 เบอร์โทรศัพท์: 0945189943
 </p>
 
 <p>
-นาย สิรภพ เรียบสำเร็จ
-<br>
+<h3>นาย สิรภพ เรียบสำเร็จ</h3>
 Email: tactiledev.sirapob@gmail.com
 <br>
 เบอร์โทรศัพท์ 0970542835
