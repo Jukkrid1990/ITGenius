@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: ITGenius
 email: tactiledev.jukkridd@gmail.com
-description: เว็บไซต์เกี่ยวกับความรู้ด้านต่างๆเกี่ยวกับ IT
+description: เว็บไซต์รวบรวมความรู้เรื่องต่างๆเกี่ยวกับด้าน IT
 baseurl: "/ITGenius" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://www.itg.com
 twitter_username: jekyllrb
